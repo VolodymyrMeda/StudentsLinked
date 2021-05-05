@@ -1,0 +1,4 @@
+name,surname,birthday,marks
+Roman,Shukhevych,30.06.1907,5 5 5 5 4
+Stepan,Bandera,01.01.1909,5 5 5 4 5
+Vladimir,Lenin,22.04.1870,1 2 2 1 1
